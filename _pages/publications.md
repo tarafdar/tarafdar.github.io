@@ -11,6 +11,21 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+
+Conferences
+======
+{% for post in site.publications.conf reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+Journals
+======
+{% for post in site.publications.journal reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+Book Chapters
+======
+{% for post in site.publications.books reversed %}
   {% include archive-single.html %}
 {% endfor %}
