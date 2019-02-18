@@ -11,30 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **Ph.D** at University of Toronto, 2020 (expected)
+  * **Dissertation:** "Developing a Hardware Stack for Heterogeneous Data Centers"
+  * **Advisor:** Paul Chow
+* **M.A.Sc** at University of Toronto, 2016
+  * **Thesis:** "Enabling Flexible Network FPGA Clusters in a Heterogeneous Data Center"
+  * **Advisor:** Paul Chow
+* **B.A.Sc with Honours in Computer Engineering** at University of Toronto
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Industry And Research Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Xilinx Research:** Visiting Scholar - July 2018
+  * I worked on integrating an optimized Xilinx Machine Learning Engine into my PhD research of a multi-FPGA and CPU framework. 
+
+* **Xilinx Research:** Machine Learning Intern - August 2017 - December 2017
+  * I designed, synthesized, and emulated, machine learning cores for high throughput, low-latency applications. I also worked on integrating these cores into popular software frameworks to make these cores accessible to software developers.  
+
+* **IBM Canada:** Hardware Acceleration Lab Intern - May 2012 - September 2013
+  * I optimized large-scale software projects CPU optimizations with the use of hardware accelerators and low-level software optimizations.  
+
+
+Awards & Scholarships
+======
+* Queen Elizabeth II/Victoria Noakes Graduate Scholarship in Science and Technology - 2018
+  * **Value:** $15000 
+* Ontario Graduate Scholarship - 2016
+  * **Value:** $15000 
+* Edward S Rogers Sr. Graduate Scholarships - 2016
+  * **Value:** $27400 
+* Edward S Rogers Sr. Admission Scholarships - 2009
+  * **Value:** $4000 
+
 
 Publications
 ======
