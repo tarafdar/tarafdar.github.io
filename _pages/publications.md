@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href="://scholar.google.ca/citations?hl=en&user=MB0KVeoAAAAJ&view_op=list_works&sortby=pubdate">my Google Scholar profile</a>.</u>
 
 {% include base_path %}
 
@@ -13,7 +13,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 Conferences
 ======
 {% for post in site.publications.conf reversed %}
-  {% if post.type == 'journal' %}
+  {% if post.type == 'conf' %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
