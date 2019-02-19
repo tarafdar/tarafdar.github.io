@@ -11,7 +11,7 @@ You can also find my articles on <u><a href="https://scholar.google.ca/citations
 
 
 ## Conferences ##
-======
+
 {% for post in site.publications reversed %}
   {% if post.type == 'conf' %}
     {% include archive-single.html %}
@@ -19,7 +19,7 @@ You can also find my articles on <u><a href="https://scholar.google.ca/citations
 {% endfor %}
 
 ## Journals ##
-======
+
 {% for post in site.publications reversed %}
   {% if post.type == 'journal' %}
     {% include archive-single.html %}
@@ -27,7 +27,7 @@ You can also find my articles on <u><a href="https://scholar.google.ca/citations
 {% endfor %}
 
 ## Book Chapters ##
-======
+
 {% for post in site.publications reversed %}
   {% if post.type == 'book' %}
     {% include archive-single.html %}
