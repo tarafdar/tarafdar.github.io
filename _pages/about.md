@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Welcome to my semi-personal page. I am a PhD candidate at the University of Toronto. My research interests include making programming a clusters of heterogeneous devices easier, cloud computing, distributed computing and FPGAs.
-My professional journey began in Toronto, specifically in the University of Toronto where I have completed my bachelor's degree and Master's degree in Computer Engineering. And now I'm in it for the long-haul with a PhD where I work in the High-Performance Reconfigurable Computing Group advised by Prof. Paul Chow.
+My professional journey began in Toronto, specifically in the University of Toronto where I have completed my Bachelor's degree and Master's degree in Computer Engineering. And now I'm in it for the long-haul with a PhD where I work in the High-Performance Reconfigurable Computing Group advised by Prof. Paul Chow.
 
 <!--
 My main project is Galapagos which looks at creating a scalable platform for heterogeneous computing, particularly FPGAs, within a data center.
