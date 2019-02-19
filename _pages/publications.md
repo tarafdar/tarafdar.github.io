@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-#permalink: /publications/
+permalink: /publications/
 author_profile: true
 ---
 
@@ -26,10 +26,8 @@ Journals
 
 Book Chapters
 ======
-{% for post in site.publications.books reversed %}
-  
+{% for post in site.publications reversed %}
   {% if post.type == 'book' %}
     {% include archive-single.html %}
   {% endif %}
-
 {% endfor %}
