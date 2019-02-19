@@ -5,9 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 
 {% include base_path %}
 
@@ -15,13 +13,17 @@ author_profile: true
 Conferences
 ======
 {% for post in site.publications.conf reversed %}
-  {% include archive-single.html %}
+  {% if post.type == 'journal' %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
 Journals
 ======
-{% for post in site.publications.journal reversed %}
-  {% include archive-single.html %}
+{% for post in site.publications reversed %}
+  {% if post.type == 'journal' %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
 Book Chapters
