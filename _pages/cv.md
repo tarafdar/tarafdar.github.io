@@ -49,21 +49,21 @@ Publications
 # Conferences #
 <ul>{% for post in site.publications reversed %}
   {% if post.type == 'conf' %}
-    {% include archive-single.html %}
+    {% include archive-single-cv.html %}
   {% endif %}
 {% endfor %} </ul>
 
 # Journals #
 {% for post in site.publications reversed %}
   {% if post.type == 'journal' %}
-    {% include archive-single.html %}
+    {% include archive-single-cv.html %}
   {% endif %}
 {% endfor %}
 
 # Book Chapters #
 {% for post in site.publications reversed %}
   {% if post.type == 'book' %}
-    {% include archive-single.html %}
+    {% include archive-single-cv.html %}
   {% endif %}
 {% endfor %}
 
