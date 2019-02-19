@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="https://scholar.google.ca/citations?hl=en&user=MB0KVeoAAAAJ&view_op=list_works&sortby=pubdate">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href="https://scholar.google.ca/citations?user=MB0KVeoAAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</u>
 
 {% include base_path %}
 
 
-Conferences
+## Conferences ##
 ======
 {% for post in site.publications reversed %}
   {% if post.type == 'conf' %}
@@ -18,7 +18,7 @@ Conferences
   {% endif %}
 {% endfor %}
 
-Journals
+## Journals ##
 ======
 {% for post in site.publications reversed %}
   {% if post.type == 'journal' %}
@@ -26,7 +26,7 @@ Journals
   {% endif %}
 {% endfor %}
 
-Book Chapters
+## Book Chapters ##
 ======
 {% for post in site.publications reversed %}
   {% if post.type == 'book' %}

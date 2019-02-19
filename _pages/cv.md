@@ -46,21 +46,21 @@ Awards & Scholarships
 
 Publications
 ======
-# Conferences #
+## Conferences ##
 <ul>{% for post in site.publications %}
   {% if post.type == 'conf' %}
     {% include archive-single-cv.html %}
   {% endif %}
 {% endfor %} </ul>
 
-# Journals #
+## Journals ##
 <ul>{% for post in site.publications %}
   {% if post.type == 'journal' %}
     {% include archive-single-cv.html %}
   {% endif %}
 {% endfor %} </ul>
 
-# Book Chapters #
+## Book Chapters ##
 <ul>{% for post in site.publications %}
   {% if post.type == 'book' %}
     {% include archive-single-cv.html %}
