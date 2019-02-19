@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Naif Tarafdar PhD Candidate"
+title: "Naif Tarafdar"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
