@@ -47,25 +47,25 @@ Awards & Scholarships
 Publications
 ======
 # Conferences #
-<ul>{% for post in site.publications reversed %}
+<ul>{% for post in site.publications %}
   {% if post.type == 'conf' %}
     {% include archive-single-cv.html %}
   {% endif %}
 {% endfor %} </ul>
 
 # Journals #
-{% for post in site.publications reversed %}
+<ul>{% for post in site.publications %}
   {% if post.type == 'journal' %}
     {% include archive-single-cv.html %}
   {% endif %}
-{% endfor %}
+{% endfor %} </ul>
 
 # Book Chapters #
-{% for post in site.publications reversed %}
+<ul>{% for post in site.publications %}
   {% if post.type == 'book' %}
     {% include archive-single-cv.html %}
   {% endif %}
-{% endfor %}
+{% endfor %} </ul>
 
   
 Talks
