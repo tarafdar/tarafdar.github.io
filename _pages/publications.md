@@ -14,7 +14,7 @@ You can also find my articles on <u><a href="https://scholar.google.ca/citations
 
 {% for post in site.publications reversed %}
   {% if post.type == 'conf' %}
-    | fig placeholder |{% include archive-single.html %}|
+    {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
