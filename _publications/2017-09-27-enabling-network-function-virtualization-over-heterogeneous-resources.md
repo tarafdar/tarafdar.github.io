@@ -5,6 +5,7 @@ permalink: /publication/2017-09-27-enabling-network-function-virtualization-over
 excerpt: 'The economies of scale afforded by cloud computing has been a driving force behind the rapid development and deployment of new cloud-based network applications and services. With the massive growth of IoT devices, we expect a sharp rise in the volume of traffic seen going to and coming from cloud datacenters, which will continue to grow over the next several years...'
 type: 'conf'
 date: 2017-09-27
+fig: 'sdi.png' 
 venue: '2017 19th Asia-Pacific Network Operations and Management Symposium (APNOMS)'
 paperurl: 'http://tarafdar.github.io/files/2017-09-27-enabling-network-function-virtualization-over-heterogeneous-resources.pdf'
 ---
