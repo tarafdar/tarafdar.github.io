@@ -12,24 +12,6 @@
   {% assign title = post.title %}
 {% endif %}
 
-{% if post.fig %}
-    <table width="100%" cellspacing="0" cellpadding="10" border="0" align="center">
-        <tbody>
-            <tr>
-                <td width="25%">
-                    <img src="{{ post.fig | prepend: "/images/" | prepend: base_path }}" >
-                </td>
-                <td width=75%">
-                    {%include archive-single-table.html %}
-                </td>
-            </tr>
-        </tbody>
-    </table>
-{% else %}
-    {%include archive-single-table.html %}
-{% endif %}
-
-
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
