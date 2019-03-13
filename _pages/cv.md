@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="https://docs.google.com/viewer?url=https://github.com/tarafdar/cv/naiftarafdar_cv.pdf" style="text-decoration: none;"><span class="fa-stack fa-1x" style="margin-right:1em"><i class="fa fa-file fa-2x"></i></span>Curriculum Vitae as PDF</a>
+
+<h1 style="text-align: center; margin-top: 2em;">Naif Tarafdar</h1>
+
 Education
 ======
 * **Ph.D** at University of Toronto, 2020 (expected)
