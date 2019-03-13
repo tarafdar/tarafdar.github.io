@@ -1,15 +1,22 @@
 ---
 permalink: /
-title: "Semi Personal Page of Naif Tarafdar"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am a PhD Candidate in [Electrical and Computer Engineering Department](https://www.ece.utoronto.ca/) at the [University of Toronto](https://www.utoronto.ca/).
+My professional journey began in Toronto, specifically in the University of Toronto where I have completed my Bachelor's degree and Master's degree in Computer Engineering. And now I'm in it for the long-haul with a PhD where I work in the High-Performance Reconfigurable Computing Group advised by Professor [Paul Chow](http://www.eecg.toronto.edu/~pc/).
 
-Welcome to my semi-personal page. I am a PhD candidate at the University of Toronto. My research interests include making programming a clusters of heterogeneous devices easier, cloud computing, distributed computing and FPGAs.
-My professional journey began in Toronto, specifically in the University of Toronto where I have completed my Bachelor's degree and Master's degree in Computer Engineering. And now I'm in it for the long-haul with a PhD where I work in the High-Performance Reconfigurable Computing Group advised by Prof. Paul Chow.
+
+Research Focus
+------
+My research interests spans multiple areas of computing with the overarching goal of making computing more accessible to users, what good are fast devices if they are too diffult to use?
+My current focus has been making large heterogeneous clusters accessible to users through the use of abstraction layers. 
+This research focus spans many areas of computing including cloud computing, distributed computing and FPGAs.
+
 
 <!--
 My main project is Galapagos which looks at creating a scalable platform for heterogeneous computing, particularly FPGAs, within a data center.
@@ -19,11 +26,14 @@ I approach the accessibility problem of these devices at scale through the forma
 This is a layer cake of abstraction layers for hardware development in the cloud. Having to interface with a single hardware device is painful, what if you wanted to do that on the order of thousands? 
 This project explores a multi-layer abstraction, starting with connecting FPGAs and CPUs to a common network backplane, abstracting away a single FPGA, forming a middleware for multiple FPGAs and programming layers and application layers on top of this. We provide a modular multilayer abstraction to give users the flexibility to choose which level of abstraction is appropriate for them. 
 -->
-I did promise that this is a semi-personal page, and I'd like to believe that I am more than just my work. I enjoy reading (non technical papers as well), music (there was a time when I could play guitar, it is on my to do list to get back to it), martial arts, biking (when it is possible, I do live in Canada), and spending time with my friends and family (when I can find the time).
+
+Outside the Lab
+------
+I would like to believe that I am more than just my work. I enjoy reading (non technical papers as well), music (there was a time when I could play guitar, it is on my to do list to get back to it), martial arts, biking (when it is possible, I do live in Canada), and spending time with my friends and family (when I can find the time).
 
 
 Contact
-======
+------
 
 **Address:**   
 D.L Pratt Building,  

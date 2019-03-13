@@ -3,8 +3,8 @@ title: "Galapagos: A Stacked Approach for Hardware Integration in the Data Cente
 collection: talks
 type: "Talk"
 permalink: /talks/2018-07-12-galapagos
-venue: "Xilinx Research"
-date: 2018-07-12
+venue: ["Xilinx Research", "test"]
+date: [2018-07-12, 2018-05-08]
 location: "San Jose, California"
 ---
 
