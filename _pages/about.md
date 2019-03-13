@@ -13,7 +13,7 @@ My professional journey began in Toronto, specifically in the University of Toro
 
 Research Focus
 ------
-My research interests spans multiple areas of computing with the overarching goal of making computing more accessible to users, what good are fast devices if they are too diffult to use?
+My research interests spans multiple areas of computing with the overarching goal of making computing more accessible to users, what good are fast devices if they are too difficult to use?
 My current focus has been making large heterogeneous clusters accessible to users through the use of abstraction layers. 
 This research focus spans many areas of computing including cloud computing, distributed computing and FPGAs.
 
@@ -43,7 +43,7 @@ Toronto ON,
 M5S 3H5  
 
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11545.799156513565!2d-79.39474683982425!3d43.65961452167306!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b34c77c18da65%3A0xeaddd9d8982c89fd!2sD.L.+Pratt+Building%2C+Toronto%2C+ON+M5S+3H5!5e0!3m2!1sen!2sca!4v1550542566070" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11545.799156513565!2d-79.39474683982425!3d43.65961452167306!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b34c77c18da65%3A0xeaddd9d8982c89fd!2sD.L.+Pratt+Building%2C+Toronto%2C+ON+M5S+3H5!5e0!3m2!1sen!2sca!4v1550542566070" width="480" height="360" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 **Email:** naif.tarafdar@mail.utoronto.ca
 
