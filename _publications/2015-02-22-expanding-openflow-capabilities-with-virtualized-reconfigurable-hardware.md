@@ -5,7 +5,7 @@ permalink: /publication/2015-02-22-expanding-openflow-capabilities-with-virtuali
 excerpt: 'We present a novel method of using cloud-based virtualized reconfigurable hardware to enhance the functionality of OpenFlow Software-Defined Networks...'
 date: 2015-02-22
 type: 'conf'
-authors: 'Stuart Byma, **Naif Tarafdar**, Talia Xu, Hadi Bannazadeh, Alberto Leon-Garcia, Paul Chow'
+authors: 'Stuart Byma, Naif Tarafdar, Talia Xu, Hadi Bannazadeh, Alberto Leon-Garcia, Paul Chow'
 venue: 'Proceedings of the 2015 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays'
 paperurl: 'http://tarafdar.github.io/files/2015-2-22-expanding-openflow-capabilities-with-virtualized-reconfigurable-hardware.pdf'
 ---
