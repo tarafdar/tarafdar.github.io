@@ -5,6 +5,7 @@ permalink: /publication/2017-02-22-enabling-flexible-network-fpga-clusters-in-a-
 excerpt: 'We present a framework for creating network FPGA clusters in a heterogeneous cloud data center...' 
 type: 'conf'
 date: 2017-02-22
+year: 2017
 authors: 'Naif Tarafdar, Thomas Lin, Eric Fukuda, Hadi Bannazadeh, Alberto Leon-Garcia, Paul Chow'
 venue: 'Proceedings of the 2017 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays'
 paperurl: 'http://tarafdar.github.io/files/2017-2-22-enabling-flexible-network-fpga-clusters-in-a-heterogeneous-cloud-data-center.pdf'

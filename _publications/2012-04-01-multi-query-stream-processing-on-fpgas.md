@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2012-04-01-multi-query-stream-processing-on-fpgas
 excerpt: 'We present an efficient multi-query event stream platform to support query processing over high-frequency event streams. Our platform is built over reconfigurable hardware -- FPGAs -- to achieve line-rate multi-query processing by exploiting unprecedented degrees of parallelism and potential for pipelining, only available through custom-built, application-specific and low-level logic design.'
 date: 2012-04-01
+year: 2012
 type: 'conf'
 authors: 'Mohammad Sadoghi, Rija Javed, Naif Tarafdar, Harsh Singh, Rohan Palaniappan, Hans-Arno Jacobsen'
 venue: 'IEEE 28th International Conference on Data Engineering'
