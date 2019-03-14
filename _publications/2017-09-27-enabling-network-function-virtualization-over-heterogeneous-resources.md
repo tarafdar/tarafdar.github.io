@@ -3,7 +3,7 @@ title: "Enabling network function virtualization over heterogeneous resources"
 collection: publications
 permalink: /publication/2017-09-27-enabling-network-function-virtualization-over-heterogeneous-resources
 excerpt: 'The economies of scale afforded by cloud computing has been a driving force behind the rapid development and deployment of new cloud-based network applications and services. With the massive growth of IoT devices, we expect a sharp rise in the volume of traffic seen going to and coming from cloud datacenters, which will continue to grow over the next several years...'
-type: 'conf'
+type: 'Conference Paper'
 year: 2017
 teaser: 'sdi.png'
 authors: 'Thomas Lin, Naif Tarafdar, Byungchul Park, Paul Chow, Alberto Leon-Garcia'

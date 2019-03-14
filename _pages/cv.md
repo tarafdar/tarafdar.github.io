@@ -50,9 +50,12 @@ Awards & Scholarships
 
 Publications
 ======
+
+{% include publications_list_by_type %}
+<!--
 ## Conferences ##
 <ul>{% for post in site.publications %}
-  {% if post.type == 'conf' %}
+  {% if post.type == 'Conference Paper' %}
     {% include archive-single-cv.html %}
   {% endif %}
 {% endfor %} </ul>
@@ -70,7 +73,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endif %}
 {% endfor %} </ul>
-
+-->
   
 Talks
 ======

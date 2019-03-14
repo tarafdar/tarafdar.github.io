@@ -3,7 +3,7 @@ title: "Heterogeneous virtualized network function framework for the data center
 collection: publications
 permalink: /publication/2017-09-04-heterogeneous-virtualized-network-function-framework-for-the-data-center
 excerpt: 'We present a framework for creating heterogeneous virtualized network function (VNF) service chains from cloud data center resources...'
-type: 'conf'
+type: 'Conference Paper'
 date: 2017-09-04
 year: 2017
 authors: 'Naif Tarafdar, Thomas Lin, Nariman Eskandari, David Lion, Alberto Leon-Garcia, Paul Chow'
