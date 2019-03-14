@@ -5,6 +5,7 @@ permalink: /publication/2018-11-01-galapagos-a-full-stack-approach-to-fpga-integ
 excerpt: 'Field-programmable gate arrays (FPGAs) have shown to be quite beneficial in the cloud due to their energy-efficient application-specific acceleration. These accelerators have always been difficult to use and at cloud scale, the difficulty of managing these devices scales accordingly...'
 type: 'journal'
 date: 2018-11-01
+authors: '**Naif Tarafdar**, Nariman Eskandari, Varun Sharma, Charles Lo, Paul Chow'
 venue: 'IEEE Micro'
 paperurl: 'http://tarafdar.github.io/files/2018-11-01-galapagos-a-full-stack-approach-to-fpga-integration-in-the-cloud.pdf'
 ---

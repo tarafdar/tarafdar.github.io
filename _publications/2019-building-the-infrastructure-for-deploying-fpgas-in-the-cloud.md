@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2019-building-the-infrastructure-for-deploying-fpgas-in-the-cloud
 excerpt: 'At the University of Toronto, we are building the infrastructure required to support the deployment of FPGAs at a large scale in a data centre. We consider FPGAs to be peers to the CPU-based servers rather than using them as accelerator slaves, which is the more common view. The goal is to enable the allocation and use of the FPGAs as computing resources in the same way that current servers are provisioned in a data centre...'
 date: 2019-01-01
+authors: '**Naif Tarafdar**, Thomas Lin, Daniel Ly-Ma, Daniel Rozhko, Alberto Leon-Garcia, Paul Chow'
 venue: 'Springer: Hardware Accelerators in Data Centers'
 type: 'book'
 paperurl: 'http://tarafdar.github.io/files/2019-building-the-infrastructure-for-deploying-fpgas-in-the-cloud.pdf'
