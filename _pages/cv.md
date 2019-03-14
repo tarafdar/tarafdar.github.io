@@ -13,8 +13,27 @@ redirect_from:
 
 <h1 style="text-align: center; margin-top: 2em;">Naif Tarafdar</h1>
 
+
+Research Interests
+------
+
+------
+
+* Data centers 
+* Heterogeneous Computing
+* Field-programmable gate-arrays (FPGAs)
+* Virtualization 
+* Abstraction layers 
+* Compute clusters
+* High-performance computing
+
+
+
 Education
-======
+------
+
+------
+
 * **Ph.D** at University of Toronto, 2020 (expected)
   * **Dissertation:** "Developing a Hardware Stack for Heterogeneous Data Centers"
   * **Advisor:** Paul Chow
@@ -25,7 +44,10 @@ Education
 
 
 Industry And Research Experience
-======
+------
+
+------
+
 * **Xilinx Research:** Visiting Scholar - July 2018
   * I worked on integrating an optimized Xilinx Machine Learning Engine into my PhD research of a multi-FPGA and CPU framework. 
 
@@ -37,7 +59,10 @@ Industry And Research Experience
 
 
 Awards & Scholarships
-======
+------
+
+------
+
 * Queen Elizabeth II/Victoria Noakes Graduate Scholarship in Science and Technology - 2018
   * **Value:** $15000 
 * Ontario Graduate Scholarship - 2016
