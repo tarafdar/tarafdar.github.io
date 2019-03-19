@@ -1,13 +1,13 @@
 ---
 title: "A Modular Heterogeneous Stack for Deploying FPGAs and CPUs in the Data Center"
 collection: publications
-permalink: /publication/2017-02-25-a-modular-heterogeneous-stack-for-deploying-fpgas-and-cpus-in-the-data-center
+permalink: /publication/2019-02-25-a-modular-heterogeneous-stack-for-deploying-fpgas-and-cpus-in-the-data-center
 type: 'Conference Paper'
 date: 2019-02-25
 year: 2019
 authors: 'Nariman Eskandari, Naif Tarafdar, Daniel Ly-Ma,  Paul Chow'
 venue: 'Proceedings of the 2019 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays'
-paperurl: 'http://tarafdar.github.io/files/2017-02-25-a-modular-heterogenous-stack-for-deploying-fpgas-and-cpus-in-the-data-center.pdf'
+paperurl: 'http://tarafdar.github.io/files/2019-02-25-a-modular-heterogenous-stack-for-deploying-fpgas-and-cpus-in-the-data-center.pdf'
 location: "Monterrey, California"
 ---
 
@@ -22,6 +22,6 @@ Our results also highlight the scalability of our design as our performance rema
 
 
 
-[Download paper here](http://tarafdar.github.io/files/2017-02-25-a-modular-heterogenous-stack-for-deploying-fpgas-and-cpus-in-the-data-center.pdf)
-[Download slides here](http://tarafdar.github.io/files/2017-02-25-a-modular-heterogenous-stack-for-deploying-fpgas-and-cpus-in-the-data-center.pptx)
+[Download paper here](http://tarafdar.github.io/files/2019-02-25-a-modular-heterogenous-stack-for-deploying-fpgas-and-cpus-in-the-data-center.pdf)
+[Download slides here](http://tarafdar.github.io/files/2019-02-25-a-modular-heterogenous-stack-for-deploying-fpgas-and-cpus-in-the-data-center.pptx)
 
