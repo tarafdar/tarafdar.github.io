@@ -22,6 +22,6 @@ Our results also highlight the scalability of our design as our performance rema
 
 
 
-[Download paper here](http://tarafdar.github.io/files/2019-02-25-a-modular-heterogenous-stack-for-deploying-fpgas-and-cpus-in-the-data-center.pdf)
-[Download slides here](http://tarafdar.github.io/files/2019-02-25-a-modular-heterogenous-stack-for-deploying-fpgas-and-cpus-in-the-data-center.pptx)
+[Download paper here](http://tarafdar.github.io/files/2019-02-25-a-modular-heterogeneous-stack-for-deploying-fpgas-and-cpus-in-the-data-center.pdf)
+[Download slides here](http://tarafdar.github.io/files/2019-02-25-a-modular-heterogeneous-stack-for-deploying-fpgas-and-cpus-in-the-data-center.pptx)
 
