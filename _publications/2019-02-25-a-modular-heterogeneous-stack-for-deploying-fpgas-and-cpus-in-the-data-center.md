@@ -7,7 +7,7 @@ date: 2019-02-25
 year: 2019
 authors: 'Nariman Eskandari, Naif Tarafdar, Daniel Ly-Ma,  Paul Chow'
 venue: 'Proceedings of the 2019 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays'
-paperurl: 'http://tarafdar.github.io/files/2019-02-25-a-modular-heterogenous-stack-for-deploying-fpgas-and-cpus-in-the-data-center.pdf'
+paperurl: 'http://tarafdar.github.io/files/papers/2019-02-25-a-modular-heterogenous-stack-for-deploying-fpgas-and-cpus-in-the-data-center.pdf'
 location: "Monterrey, California"
 ---
 
